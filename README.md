@@ -37,14 +37,12 @@ csv (python standard library)
 
 To use this tool, follow these steps below:
 1. **Clone the repository**:
-   '''bash
+   ```bash
    git clone https://github.com/chengulatj/txt_to_csv.git
 
-2. **Navigate to the project directory**:
-   '''bash
-   cd chengulatj
-3. **Install any necessary dependencies**:
-This project only uses Python's standard library, so no additional installation is needed.
+2. **Install any necessary dependencies**:
+   
+ This project only uses Python's standard library, so no additional installation is needed.
 
 ## Usage
 1. Open the notebook or Python script in Google Colab, Jupyter Notebook, or any Python IDE.
