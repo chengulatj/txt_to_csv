@@ -29,9 +29,9 @@ Efficiently handles large datasets.
 Provides flexibility in specifying input and output file paths.
 
 ## Requirements
-**Python 3.x**
-Libraries:
-csv (python standard library)
+- **Python 3.x**
+- Libraries:
+  csv (python standard library)
 
 ## Installation
 
@@ -39,6 +39,10 @@ To use this tool, follow these steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/chengulatj/txt_to_csv.git
+   
+2. **Navigate to the project directory**:
+   ```bash
+   cd txt_to_csv
 
 2. **Install any necessary dependencies**:
    
